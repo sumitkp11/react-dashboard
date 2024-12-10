@@ -16,7 +16,7 @@ export default function Page() {
   className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black"
 />
           <p className={`text-xl text-gray-800 md:text-3xl md:leading-normal ${lusitana.className} antialiased` }>
-            <strong>Welcome to sumitkp HireReady.</strong> Become HireReady with our complete interview preparation guide. From common questions to unique scenarios, we provide you with the insights and strategies to ace your interviews and stand out from the crowd brought to you by the MinimalBits Labs and sumitkp.in.
+            <strong>Welcome to sumitkp's HireReady.</strong> Become HireReady with our complete interview preparation guide brought to you by the MinimalBits Labs and sumitkp.in.
           </p>
           <Link
             href="/login"

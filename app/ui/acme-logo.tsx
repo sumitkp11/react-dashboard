@@ -8,7 +8,8 @@ export default function AcmeLogo() {
       className={`${lusitana.className} flex flex-row items-center leading-none text-white`}
     >
       <AcademicCapIcon className="h-12 w-12 rotate-[15deg]" />
-      <p className="text-[44px]">sumitkp HireReady</p>
+      <p className="text-[44px] hidden md:block">sumitkp HireReady</p>
+      <p className="block md:hidden text-[33px]">HireReady</p>
     </div>
   );
 }
